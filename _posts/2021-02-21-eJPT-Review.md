@@ -6,13 +6,13 @@ tags: ["Reviews","eJPT","elearn-security"]
 math: true
 ---
 
-# <h1 align="right" dir='rtl'> مراجعة عن امتحان - eJPT </h1>
+<h1 align="right" dir='rtl'> مراجعة عن امتحان - eJPT </h1>
 
-## <h2 dir='rtl' align="right"> البداية </h2>
+<h2 dir='rtl' align="right"> البداية </h2>
 
-### <h3 dir='rtl' align="right">ما هي شهادة eJPT</h3>
+<h3 dir='rtl' align="right">ما هي شهادة eJPT</h3>
 
-#### <h4 dir='rtl' align="right"> السلام عليكم ورحمة الله وبركاتة </h4>
+<h4 dir='rtl' align="right"> السلام عليكم ورحمة الله وبركاتة </h4>
 <p dir='rtl' align='right'>
  هي شهادة من شركة تسمي Elearn Security موجها بشكل مخصوص للمبتدئين في مجال Penetration testing<br>
  ومحتواها يشرح اساسيات عن النتورك والويب وبعض الاساسيات للغات زي C++ ,Python<br>
@@ -29,7 +29,7 @@ math: true
  والكورس عموما سهل بردو يعني مش هتتعب في فهمه اووي هو اصلا منهج بسيط جدا<br>
 </p>
 
-### <h3 dir='rtl' align="right">الامتحان</h3>
+<h3 dir='rtl' align="right">الامتحان</h3>
 
 <p dir='rtl' align='right'>
  بص ياصديقي الامتحان بيبقا عبارة عن بعض الاسئلة الي هو عددهم 20 سؤال <br>
@@ -39,7 +39,7 @@ math: true
  الدنيا هتبقا سهلة معاك<br>
 </p>
 
-### <h3 dir='rtl' align="right">المشاكل الي وجهتني</h3>
+<h3 dir='rtl' align="right">المشاكل الي وجهتني</h3>
 
 
 <p dir='rtl' align='right'>
@@ -54,7 +54,7 @@ math: true
 </p>
 
 
-### <h3 dir='rtl' align="right">اخبرا</h3>
+<h3 dir='rtl' align="right">اخبرا</h3>
 
 <p dir='rtl' align='right'>
  احب اقولك ان الامتحان سهل ومتستعجلش نفسك خالص قدامك وقت تحل وزيادة وتراجع عن الاسئلة برحتك في 72 ساعة<br>

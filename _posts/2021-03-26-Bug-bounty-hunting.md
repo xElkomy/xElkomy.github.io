@@ -49,7 +49,7 @@ The best repo you must read to become a bug hunter
 
 ## Am must play CTF to become a bug hunter?
 
-No, but It will be ok if you doing that from time to time to update your mindset and know new people from a community such as HTB, Tryhackme, Root-me, Virtual box creators and players on discord, and ....etc
+No, but It will be ok if you doing that from time to time to update your mindset and know new people from a community such as HTB, Tryhackme, Root-me, Vulnhub boxs creators and players on discord, and ....etc
 
 ## The End
 

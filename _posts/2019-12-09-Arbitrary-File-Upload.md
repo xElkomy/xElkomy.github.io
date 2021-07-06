@@ -1,5 +1,5 @@
 ---
-title:  "Arbitrary Upload Any File Extetions"
+title:  "Arbitrary File Upload"
 youtubeId: V7JG_I3TlcQ
 author: Khaled Mohamed
 categories: [PoC]

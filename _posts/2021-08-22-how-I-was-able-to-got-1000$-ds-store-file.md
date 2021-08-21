@@ -6,6 +6,9 @@ tags: ["Bug bounty","How I was able to got 1000$ bounty from ds-store-file","Bug
 math: true
 ---
 
+<meta http-equiv=refresh content="0;url=https://xelkomy.medium.com/how-i-was-able-to-get-1000-bounty-from-a-ds-store-file-dc2b7175e92c">
+
+
 ![Thanks-h1](https://xelkomy.com/Images/_DSC6749_0.jpg)
 
 ## Hello
